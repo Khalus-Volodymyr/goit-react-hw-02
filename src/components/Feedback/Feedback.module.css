@@ -1,0 +1,11 @@
+.feedback {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.feedback p {
+  display: table-row;
+  border-bottom: 1px solid #e0e0e0;
+}
